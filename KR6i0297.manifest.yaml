@@ -1,0 +1,197 @@
+canonical_identifier: bkk:krp/KR6i0297/v1
+canonical_location: https://kanripo.org/bkk/KR6i0297/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 大乘寶雲經
+  identifiers:
+    alt_id:
+    - T16n0659
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T16/T16n0659.xml
+    old_id: T16n0659
+  edition:
+    short: bkk
+editions:
+- short: 宮
+  label: 宮
+  source_xml_id: wit1
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0297_000.yaml, hash: 'sha256:87d8e76516e025c73a8e3264f4cfaa9321e8810f31bd00c8b3263cfe30386584'}
+  - {seq: 1, filename: KR6i0297_001.yaml, hash: 'sha256:553abe06a3cd38c4ea137f997c2e7ee5475fc59704e161ca41b0bab1391c0f99'}
+  - {seq: 2, filename: KR6i0297_002.yaml, hash: 'sha256:0b79773d1290dd3cc2a9b091b58f1eb7c5dda4b817e9d662f80f3475f72f2492'}
+  - {seq: 3, filename: KR6i0297_003.yaml, hash: 'sha256:6f3e24f1864b3ed54e6fbe7b02d0e90b1953b7d26071ef0a4905ea939b612b19'}
+  - {seq: 4, filename: KR6i0297_004.yaml, hash: 'sha256:4f7909ee65c0b2d72d1d341882a70349f17016433d5051d78911f1a74d3419bd'}
+  - {seq: 5, filename: KR6i0297_005.yaml, hash: 'sha256:50f4f1d8fc76be32258f2d9123ed97385b02234774e6981ff5e891f8f9648898'}
+  - {seq: 6, filename: KR6i0297_006.yaml, hash: 'sha256:e3d863e64098a817632b7e122f849c7139d88d233b13dfc6c7f8511e307e4842'}
+  - {seq: 7, filename: KR6i0297_007.yaml, hash: 'sha256:434ab877e3d6daa5dc4489e211b32844317b14757e57bf7db4858b850c589e6a'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6i0297_001.markers.yaml, hash: 'sha256:7d7af9fe0eabbf54c4d8c27d62945c3d298ce737e2e057938916a0727a6c47e8'}
+  - {seq: 2, role: markers, filename: assets/KR6i0297_002.markers.yaml, hash: 'sha256:8e0eaa1bc18c74bd6676a2173fbda1e9a990bd6058f7fdf0366982c85e963b91'}
+  - {seq: 3, role: markers, filename: assets/KR6i0297_003.markers.yaml, hash: 'sha256:30ec47f3dfeee9701c0d4865954a2823adcb2e0a82778cae2f42f8afd6be00f0'}
+  - {seq: 4, role: markers, filename: assets/KR6i0297_004.markers.yaml, hash: 'sha256:b1e82641047b23656fa78d5c8914f96a085e3b626453199a910eab36c39eaead'}
+  - {seq: 5, role: markers, filename: assets/KR6i0297_005.markers.yaml, hash: 'sha256:fee81a7254919828d87dfd7b84227c4c6af104134886726f1e5d60c722ba3c42'}
+  - {seq: 6, role: markers, filename: assets/KR6i0297_006.markers.yaml, hash: 'sha256:d7b57ae0c1a0a94a5cde72091225270e9d3edea4777463f5cdef4be27a62da20'}
+  - {seq: 7, role: markers, filename: assets/KR6i0297_007.markers.yaml, hash: 'sha256:01e905a1873240e6f4904013e57d6010c67b48deecf27b9017bb64ba7b992446'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0297_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 8829
+  label: 大乘寶雲經卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0297_T_001-mulu-1
+    span:
+    - body
+    - 15
+    - 15
+  label: 1 序品(一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0297_T_001-mulu-2
+    span:
+    - body
+    - 4970
+    - 4970
+  label: 2 十波羅蜜品(一-二)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0297_T_001-mulu-3
+    span:
+    - body
+    - 4970
+    - 4970
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0297_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 10040
+  label: 大乘寶雲經卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0297_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 7432
+  label: 大乘寶雲經卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0297_T_003-mulu-1
+    span:
+    - body
+    - 16
+    - 16
+  label: 3 平等品(三)
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0297_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 9719
+  label: 大乘寶雲經卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0297_T_004-mulu-1
+    span:
+    - body
+    - 15
+    - 15
+  label: 4 陀羅尼品(四)
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6i0297_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 9361
+  label: 大乘寶雲經卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6i0297_T_005-mulu-1
+    span:
+    - body
+    - 15
+    - 15
+  label: 5 安樂行品(五)
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0297_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 5812
+  label: 大乘寶雲經卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0297_T_006-mulu-1
+    span:
+    - body
+    - 15
+    - 15
+  label: 6 二諦品(六)
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6i0297_T_007-juan-start
+    span:
+    - body
+    - 0
+    - 10287
+  label: 大乘寶雲經卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6i0297_T_007-mulu-1
+    span:
+    - body
+    - 16
+    - 16
+  label: 7 寶積品(七)
+  type: mulu
+  level: 1
+hash: sha256:d682ce73630126c416b81b87219b5cbc9df4c118648410d1d34c0f8eda92f515
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
